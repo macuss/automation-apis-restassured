@@ -5,8 +5,6 @@ import static io.restassured.RestAssured.*;
 import io.restassured.response.Response;
 //import io.restassured.response.ValidatableResponse;
 
-import static org.hamcrest.Matchers.*;
-
 public class FindByStatus {
 
     public static void main(String[] args) {

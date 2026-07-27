@@ -15,3 +15,8 @@ Para filtrar:
   _ query params: con el ? sirve para filtrar los datos que se realiza en el Request, mas de 1 registro 
   _ path params: va directamente en el endpoint /pet/{petID} , sirve para mostrar 1 en particular
 
+
+
+GIT
+
+git pull origin main
